@@ -9,3 +9,6 @@
 7. buscar cabina para cambio de identirad
 8. limpiar mis gafas sin graduación
 9. alejarme de la kripnoitaa
+10. Plan de entreamiento de flasj
+11.  correr a menos de 2min/km a ritmo suave.
+12. Inferir carbohidratos.

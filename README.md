@@ -1,2 +1,3 @@
-#hacemos modificaciones del readme porque queremos enlazar una nueva version de la app desde
-#branch main
+#hnotes sobre la version del programa.
+
+aqui guardaremos datos relacionados con las diferentes versiones del programa

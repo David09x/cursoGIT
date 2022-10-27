@@ -7,3 +7,6 @@
 4. evitar el plan de los malvados de como dominar el mundo
 5. volver tranquilamente a la oficina de incognito
 6. hacer un reconocimiento de los enemigos
+7. Aislar los lugares donde se encuentras posibles dominadores del mundo
+8. Limpiar la batcueva.
+9. Ir a por el pan.
